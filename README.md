@@ -56,7 +56,7 @@ The final analysis found that the proposed portfolio maintains sufficient modele
 
 ## Executive Dashboard
 
-![Family Z Private Wealth Advisory Dashboard](Dashboard.png)
+![Family Z Private Wealth Advisory Dashboard](dashboard.png)
 
 [Download the Interactive Excel Workbook](Family_Z_Wealth_Advisory.xlsx)
 
