@@ -10,9 +10,8 @@ The project combines strategic asset allocation, investment product research, fi
 
 ## Executive Dashboard
 
-![Family Z Wealth Advisory Dashboard](Dashboard.png)
+![Family Z Wealth Advisory Dashboard](dashboard.png)
 
-[Download the Interactive Excel Financial Model](Family_Z_Wealth_Advisory.xlsx)
 
 ---
 
