@@ -1437,19 +1437,3 @@ Family Z is fictional, and no actual client assets are managed.
 The investment portfolio, business exposures, financial scenarios and derivatives strategies are presented for educational and analytical purposes.
 
 The model does not represent actual investment performance, investment advice, a solicitation to invest or a comprehensive financial plan.
-
----
-
-# Conclusion
-
-The most important lesson from this project is that portfolio construction is not simply about selecting investments with attractive expected returns.
-
-It is about understanding the client's existing wealth, identifying economic vulnerabilities, balancing financial objectives and evaluating how different investment decisions interact.
-
-Reducing US technology concentration introduces different country and energy-related risks. Defensive investments can support financial stability while creating a purchasing-power shortfall. Liquidity protects the family against forced asset sales but carries an opportunity cost. Derivatives can partially offset specific exposures but introduce premium expenditure and execution risks.
-
-The objective of wealth management is not to eliminate every risk.
-
-It is to identify which risks the client already possesses, which risks are appropriate to accept, and which risks should be reduced or managed.
-
-This project demonstrates that complete investment decision-making process through a client-focused, interactive Excel financial model.
